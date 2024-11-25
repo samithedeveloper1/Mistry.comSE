@@ -597,3 +597,23 @@ def rate_product(request, id):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
